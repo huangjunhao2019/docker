@@ -1,3 +1,3 @@
 # docker learning process:
-## It will finished before 2020.1.23
+## It will be finished before 2020.1.23
 
